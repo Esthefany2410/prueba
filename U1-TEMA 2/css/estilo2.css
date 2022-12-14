@@ -1,0 +1,21 @@
+.caja-canciones{
+    border-top: 5px solid rgb(36, 7, 63);
+    border-right:5px solid rgb(36, 7, 63) ;
+    border-bottom:5px solid rgb(36, 7, 63) ;
+    border-left: 5px solid rgb(36, 7, 63);
+    background-color: white;
+    width: 250px; 
+    height: 180px;
+}
+body{
+    background-color: blueviolet;
+}
+
+.padding{
+    border:1px solid black;
+    background-color: lightblue;
+    padding-top:50px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
